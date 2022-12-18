@@ -103,4 +103,4 @@ bot.on("messageCreate", async message => {
 
 
 
-bot.login("");
+bot.login("MTA1MDg4MTk0MzIyNDQ1OTI3NQ.GaKyx0.eDXO6sCpmnR4sp0qp-z21r9DK6UCEvjRYa2CWo");
